@@ -102,5 +102,33 @@
       "password": "3033579a23c256fc2b6d008fd89c6d3a"
     }
   ],
-  "servicios": []
+  "servicios": [
+    {
+        "id": "6621367f4cf416427497fbab",
+        "fecha": "2023-01-18T00:00:00.000Z",
+        "hora": "10:04",
+        "valor": 500000,
+        "encomiendaId": "Pollo con champinones - 1 - Almuerzo - Plato",
+        "origen": "Clientes Varios - Clientes Varios ",
+        "destino": "Colombia - Pasto - Nariño - N/A "
+    },
+    {
+        "id": "663102604c49886ab82fe8b9",
+        "fecha": "2024-04-23T00:00:00.000Z",
+        "hora": "20:37",
+        "valor": 120000,
+        "encomiendaId": "Almuerzo con Carne - 450 - Carnes - Plato con Arroz y carne",
+        "origen": "Andres - Burbano ",
+        "destino": "Colombia - Pasto - Nariño - N/A "
+    },
+    {
+        "id": "663102794c49886ab82fe8ba",
+        "fecha": "2024-04-25T00:00:00.000Z",
+        "hora": "19:38",
+        "valor": 59999,
+        "encomiendaId": "Corte de carne Baby beef - 500 - Carnes - Corte de carne acompañado con papas ya sea al vapor o fritas",
+        "origen": "Nohora - Vanegas ",
+        "destino": "Colombia - Doradal - Caldas - N/A "
+    }
+  ]
 }
